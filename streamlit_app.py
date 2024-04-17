@@ -4,7 +4,7 @@ import os
 
 # App title
 st.set_page_config(page_title="💬 FacultyFlo Chatbot")
-page_icon="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dfaculty&psig=AOvVaw1WPJhy05CXil0l0bFPYKT4&ust=1713418267778000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjhxszCyIUDFQAAAAAdAAAAABAF"
+page_icon="logo1.png"
 
 # Replicate Credentials
 with st.sidebar:
