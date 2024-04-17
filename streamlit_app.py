@@ -4,7 +4,8 @@ import os
 
 # App title
 st.set_page_config(page_title="💬 FacultyFlo Chatbot")
-page_icon="logo1.png"
+favicon = "logo1.png"
+st.markdown(f'<link rel="shortcut icon" href="data:image/png;base64,{favicon}" type="image/png">', unsafe_allow_html=True)
 
 # Replicate Credentials
 with st.sidebar:
